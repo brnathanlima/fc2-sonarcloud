@@ -10,7 +10,7 @@ func soma(a int, b int) int {
 	return a + b
 }
 
-func sub(a int, b int) int {
+/* func sub(a int, b int) int {
 	return a - b
 }
 
@@ -20,4 +20,4 @@ func times(a int, b int) int {
 
 func divided(a int, b int) int {
 	return a / b
-}
+} */
